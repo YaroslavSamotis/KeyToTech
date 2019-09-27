@@ -1,4 +1,4 @@
-package com.example.android.keytotechapp.comments.Networking;
+package com.example.android.keytotechapp.comments.networking;
 
 import com.example.android.keytotechapp.comments.comments_screen.Comment;
 

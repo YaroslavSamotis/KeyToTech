@@ -3,7 +3,7 @@ package com.example.android.keytotechapp.comments.comments_screen;
 import android.app.Application;
 import android.os.Bundle;
 
-import com.example.android.keytotechapp.comments.Networking.NetworkService;
+import com.example.android.keytotechapp.comments.networking.NetworkService;
 
 import java.io.Serializable;
 import java.util.ArrayList;
