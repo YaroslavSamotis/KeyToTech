@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">KeyToTech App</string>
+    <string name="app_name" translatable="false">KeyToTech App</string>
+    <string name="main_board_text_hint">Input number</string>
+    <string name="main_board_show_comments_button">Show comments</string>
+    <string name="main_board_warning_message">Second number should not be less then the first one!</string>
+    <string name="main_board_zero_value_warning_message">First number should not be equal to 0!</string>
+    <string name="comments_download_failure_message">Error loading data!</string>
+    <string name="comments_maximum_available_comments">Available comments number - </string>
 </resources>

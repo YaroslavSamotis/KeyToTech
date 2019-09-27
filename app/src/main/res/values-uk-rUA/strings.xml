@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyToTech App</string>
+    <string name="comments_download_failure_message" translatable="false">Помилка при завантаженні даних!</string>
+    <string name="main_board_show_comments_button" translatable="false">Відобразити коментарі</string>
+    <string name="main_board_text_hint">Введіть число</string>
+    <string name="main_board_warning_message">Друге число не повинно бути меншим, ніж перше!</string>
+    <string name="main_board_zero_value_warning_message">Перше число не повинно дорівнювати 0</string>
+    <string name="comments_maximum_available_comments">"Кількість доступних коментарів - "</string>
+</resources>
