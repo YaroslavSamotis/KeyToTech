@@ -2,9 +2,9 @@ package com.example.android.keytotechapp;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import android.os.Bundle;
-import com.example.android.keytotechapp.comments.CommentsFragment;
+import com.example.android.keytotechapp.comments.comments_screen.CommentsFragment;
 import com.example.android.keytotechapp.comments.mainboard.MainBoardFragment;
-import static com.example.android.keytotechapp.comments.CommentsFragment.COMMENTS_FRAGMENT_TAG;
+import static com.example.android.keytotechapp.comments.comments_screen.CommentsFragment.COMMENTS_FRAGMENT_TAG;
 import static com.example.android.keytotechapp.comments.mainboard.MainBoardFragment.MAIN_BOARD_FRAGMENT_TAG;
 
 public class MainActivity extends AppCompatActivity{

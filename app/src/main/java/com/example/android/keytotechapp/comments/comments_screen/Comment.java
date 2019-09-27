@@ -1,4 +1,4 @@
-package com.example.android.keytotechapp.comments;
+package com.example.android.keytotechapp.comments.comments_screen;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

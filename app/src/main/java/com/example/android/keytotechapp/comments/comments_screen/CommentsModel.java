@@ -1,7 +1,9 @@
-package com.example.android.keytotechapp.comments;
+package com.example.android.keytotechapp.comments.comments_screen;
 
 import android.app.Application;
 import android.os.Bundle;
+
+import com.example.android.keytotechapp.comments.Networking.NetworkService;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -15,9 +17,9 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-import static com.example.android.keytotechapp.comments.CommentsFragment.EXTRAS_LOWER_BOUND;
-import static com.example.android.keytotechapp.comments.CommentsFragment.EXTRAS_UPPER_BOUND;
-import static com.example.android.keytotechapp.comments.CommentsFragment.LOAD_COMMENTS_PER_ONCE;
+import static com.example.android.keytotechapp.comments.comments_screen.CommentsFragment.EXTRAS_LOWER_BOUND;
+import static com.example.android.keytotechapp.comments.comments_screen.CommentsFragment.EXTRAS_UPPER_BOUND;
+import static com.example.android.keytotechapp.comments.comments_screen.CommentsFragment.LOAD_COMMENTS_PER_ONCE;
 
 public class CommentsModel extends AndroidViewModel implements CommentsFragmentContract.Model {
 

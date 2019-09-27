@@ -1,4 +1,6 @@
-package com.example.android.keytotechapp.comments;
+package com.example.android.keytotechapp.comments.Networking;
+
+import com.example.android.keytotechapp.comments.comments_screen.Comment;
 
 import java.util.List;
 

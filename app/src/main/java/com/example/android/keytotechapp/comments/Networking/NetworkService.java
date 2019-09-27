@@ -1,4 +1,4 @@
-package com.example.android.keytotechapp.comments;
+package com.example.android.keytotechapp.comments.Networking;
 
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
